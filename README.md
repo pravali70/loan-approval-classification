@@ -1,7 +1,7 @@
 # 🏦 Loan Approval Prediction - Mini Project
 👋 Hello folks! Welcome to this exciting mini-project on Loan Approval Prediction!
 
-📝 Project Overview
+## 📝 Project Overview
 In this project, we work with a real-world dataset related to loan applications. The dataset includes key applicant attributes such as:
 
 Education Level
@@ -20,7 +20,7 @@ Loan Approval Status (Target)
 
 Our objective is to build a complete machine learning pipeline—from data exploration and preprocessing to model training and evaluation—to predict whether a loan will be approved or rejected.
 
-🎯 Objective
+## 🎯 Objective
 The primary goal of this project is to build and compare the performance of multiple machine learning models to accurately predict loan approval status (Loan_Status).
 
 This classification is vital for financial institutions to:
@@ -33,7 +33,7 @@ Reduce financial risk and default rates
 
 Enhance decision-making strategies
 
-The models evaluated include:
+## The models evaluated include:
 
 Logistic Regression
 
@@ -47,7 +47,7 @@ AdaBoost
 
 XGBoost
 
-📊 Evaluation Metrics
+## 📊 Evaluation Metrics
 To measure the effectiveness of each model, we use the following evaluation metrics:
 
 Accuracy
@@ -62,7 +62,7 @@ Confusion Matrix
 
 These metrics provide a well-rounded view of how each model handles both positive (approved) and negative (rejected) loan applications.
 
-🧰 Tools & Libraries
+## 🧰 Tools & Libraries
 The project is implemented in Python, leveraging widely used data science libraries:
 
 pandas – Data manipulation and wrangling
@@ -75,7 +75,7 @@ scikit-learn – Machine learning models and evaluation tools
 
 xgboost – Advanced gradient boosting for classification
 
-✅ Outcome
+## ✅ Outcome
 By comparing multiple models across the evaluation metrics, we identify the most effective classifier for loan status prediction. The key outcomes of the project include:
 
 Improved understanding of what features influence loan approvals
